@@ -5,7 +5,7 @@ A simple scroll animation example for flutter
 <img src="flutter_scroll_animation.gif" alt="Flutter Scroll Animation" />
 <br/><br/>
 
-<img src="flutter_scroll_anim2.gif.gif" alt="Flutter Scroll Animation" />
+<img src="flutter_scroll_anim2.gif" alt="Flutter Scroll Animation" />
 <br/><br/>
 
 ## Explaination
